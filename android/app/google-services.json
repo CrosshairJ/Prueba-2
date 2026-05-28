@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "29857906401",
+    "firebase_url": "https://miapp-a4325-default-rtdb.firebaseio.com",
+    "project_id": "miapp-a4325",
+    "storage_bucket": "miapp-a4325.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29857906401:android:b63510449e72db7bda81a0",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29857906401-jgjiflhv39frc9rjvpd3ldfs1hg940lr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "89a21bd4e474c52da2ad02c4275c5ada1074e9fe"
+          }
+        },
+        {
+          "client_id": "29857906401-anpf031vrfnao1064dcmttk59ugfbdmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGBqbMqumEBL_5l-gWi5QgxXCOvfF7hEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29857906401-anpf031vrfnao1064dcmttk59ugfbdmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
