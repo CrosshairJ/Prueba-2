@@ -1,6 +1,6 @@
 # app
 
-A new Flutter project.
+Informe dentro de carpeta llamada InformePrueba2
 
 ## Getting Started
 
